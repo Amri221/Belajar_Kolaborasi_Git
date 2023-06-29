@@ -1,6 +1,7 @@
 # Belajar_Kolaborasi_Git
+Aldi Herdiawan - SMKN1 Cianjur
 
 
 
 
-# Mochamad Amri Putra Karyadi - Asal Cianjur
+
